@@ -6,7 +6,7 @@ I'm a Front End Developer
 
 🌍  I'm a developer from Canada<br>
 🚀  Currently, I'm focused on building a variety of front-end based projects while learning back-end technologies<br>
-🖥️  Check out my portfolio [here](http://https://thomas-huynh.com/)<br>
+🖥️  Check out my portfolio [here](https://thomas-huynh.com/)<br>
 ✉️  You can contact me at [thomas\_tth@live.com](mailto:thomas_tth@live.com)<br>
 🤝  I'm open to collaborating on projects! Feel free to reach out!<br>
 
