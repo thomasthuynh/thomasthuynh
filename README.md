@@ -1,11 +1,11 @@
 Hi, my name is Thomas Huynh ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ====================================================================================================================================
 
-I'm a Front End Developer
+I'm a Full Stack Developer
 ------------------------
 
 🌍  I'm a developer from Canada<br>
-🚀  Currently, I'm focused on building a variety of front-end based projects while learning back-end technologies<br>
+🚀  Currently, I'm focused on building a variety of full-stack web applications while exploring and learning new technologies<br>
 🖥️  Check out my portfolio [here](https://thomas-huynh.com/)<br>
 ✉️  You can contact me at [thomas\_tth@live.com](mailto:thomas_tth@live.com)<br>
 🤝  I'm open to collaborating on projects! Feel free to reach out!<br>
